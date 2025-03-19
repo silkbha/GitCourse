@@ -45,6 +45,9 @@ def convert_temperature(value, input_unit, output_unit):
     """
     check_validity(value, unit)
     
+    if input_unit == output_unit:
+        return value
+    
     # Convert
     if input_unit == "C":
         kelvin      = celsius_to_kelvin(value)
