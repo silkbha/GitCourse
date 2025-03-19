@@ -1,4 +1,5 @@
 # GitCourse
-Git crash course example repository.
+
+Repository for research software development course.
 
 Please fork! (for forking exercise)
