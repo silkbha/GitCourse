@@ -131,32 +131,6 @@ Ask Paula
 If you attend the full workshop you can request a certificate of attendance by emailing to training@esciencecenter.nl.
 Please request your certificate within 8 months after the workshop, as we will delete all personal identifyable information after this period.
 
-🍦 Icebreaker
-
-Describe what you do in only three words.
-
-| Name      | Your Three Words                         |     |     |
-| --------- | ---------------------------------------- | --- | --- |
-| Lucas     | Drumming, climbing, cooking              |     |     |
-| Frederik  | Satellites, running, Belgium             |     |     |
-| Lorenzo   | Microplastics, sports, piano             |     |     |
-| Pedro     | football, piano, movies                  |     |     |
-| Andres    | Football, Biking, Cooking                |     |     |
-| Giulia    | Leather, Stitching,  designing           |     |     |
-| Moji      | Robot,  Basketball, Games                |     |     |
-| Laura     | Hiking,  travelling, reading             |     |     |
-| Max       | Turbulence, Outside, Art                 |     |     |
-| Ben       | Astrophysics, Movies, Music              |     |     |
-| Tarun     | CFD, Reading, Football                   |     |     |
-| Tamara    | Modelling subcellular biology            |     |     |
-| Shaina    | Reading, Knitting, Running               |     |     |
-| Sajjad    | Numerical modeling, fishing, badminton   |     |     |
-| Veerle    | sailing, climbing, paragliding           |     |     |
-| Sadaf     | Climbing, Food, board games              |     |     |
-| Jing Wang | Table tennis, Delicious food, Travelling |     |     |
-| Wessel    | Hiking, traveling, sport                 |     |     |
-| Alessio   | Sports, Books, ORC                       |     |     |
-
 
 ## 🔧 Exercises
 
