@@ -1,4 +1,4 @@
-def multiply(a, b) -> c:
+def multiply(a, b):
     """
     Multiply two int number
     multiplication_res = multiply(1, 2)

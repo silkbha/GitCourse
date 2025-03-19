@@ -1,8 +1,8 @@
- def add(a:int, b:int) -> int:
-"""
-args:
-	a,b integers
-returns
-	sum of a and b
-"""
-     return a + b
+def add(a, b):
+    """
+    args:
+    a,b integers
+    returns
+    sum of a and b
+    """
+    return a + b
