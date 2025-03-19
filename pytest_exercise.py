@@ -23,6 +23,10 @@ def test_add():
 """
 
 def fizzbuzz(n):
+    """ Implementation of Fizz Buzz.
+    """
+    if isinstance(n,int) == False:
+        raise ValueError("input must be an integer")
     if n<= 0:
         raise ValueError("zero or negative numbers are not allowed")
     
@@ -32,6 +36,13 @@ def fizzbuzz(n):
         return "Fizz"
     elif n % 5 == 0:
         return "Buzzz" # misspelled on purpose: all test should pass except one
+
+
+
+def test_fizzbuzz_int():
+    with pytest.raises(ValueError):
+        fizzbuzz(2.5)
+        fizzbuzz("meepmorp")
 
 def test_fizzbuzz_zero():
     with pytest.raises(ValueError):
