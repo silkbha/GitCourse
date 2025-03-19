@@ -21,4 +21,4 @@ def fizzbuzz(n):
     elif n % 3 == 0:
         return "Fizz"
     elif n % 5 == 0:
-        return "Buzzz" # misspelled on purpose: all test should pass except one
+        return "Buzz"
