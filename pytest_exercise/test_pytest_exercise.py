@@ -1,12 +1,5 @@
 import pytest
-
-def add(a,b):
-    """Correct function. Passes unit test."""
-    return a+b
-
-def add_wrong(a,b):
-    """Mistake in function. Fails unit test."""
-    return a-b
+from pytest_exercise import *
 
 """ assert: test if expected result is actual result
     pytest expects test functions to start with "test_"
@@ -21,23 +14,6 @@ def test_add():
 
 """ Test-Driven Development: write test first, then write function to pass test.
 """
-
-def fizzbuzz(n):
-    """ Implementation of Fizz Buzz.
-    """
-    if isinstance(n,int) == False:
-        raise ValueError("input must be an integer")
-    if n<= 0:
-        raise ValueError("zero or negative numbers are not allowed")
-    
-    if n % 3 == 0 and n % 5 == 0:
-        return "FizzBuzz"
-    elif n % 3 == 0:
-        return "Fizz"
-    elif n % 5 == 0:
-        return "Buzzz" # misspelled on purpose: all test should pass except one
-
-
 
 def test_fizzbuzz_int():
     with pytest.raises(ValueError):
