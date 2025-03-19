@@ -1,0 +1,12 @@
+name: gitcourse
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - pytest
+  - mkdocs
+  - mkdocs-material
+  - mkdocstrings
+  - mkdocstrings-python
+  - sphinx
