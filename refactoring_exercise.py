@@ -23,7 +23,7 @@ def kelvin_to_fahrenheit(value):
     return celsius_to_fahrenheit(celsius)
 
 
-def check_validity(value,unit):
+def check_validity(value, unit):
     """
     """
     # Check unit string validity
@@ -43,7 +43,7 @@ def check_validity(value,unit):
 def convert_temperature(value, input_unit, output_unit):
     """
     """
-    check_validity(value, unit)
+    check_validity(value, input_unit)
     
     if input_unit == output_unit:
         return value
