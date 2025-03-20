@@ -18,7 +18,7 @@ def test_add():
 def test_fizzbuzz_int():
     with pytest.raises(ValueError):
         fizzbuzz(2.5)
-        fizzbuzz("meepmorp")
+        fizzbuzz("spaceship")
 
 def test_fizzbuzz_zero():
     with pytest.raises(ValueError):
@@ -39,3 +39,7 @@ def test_fizzbuzz_buzz():
 def test_fizzbuzz_fizzbuzz():
     assert fizzbuzz(15) == "FizzBuzz"
     assert fizzbuzz(60) == "FizzBuzz"
+
+def test_fizzbuzz_misc():
+    assert fizzbuzz(4) == 4
+    assert fizzbuzz(7) == 7
