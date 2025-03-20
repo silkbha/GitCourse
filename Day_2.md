@@ -55,8 +55,6 @@ Lucas Esclapez, Olga Lyashevska
 
 ~~Heather Andrews~~, Carlos Utrilla Guerrero, Leila Inigo de la Cruz, Raul Ortiz, ~~Yasel Quintero, Selin Kubilay~~
 
-## 👩‍💻👩‍💼👨‍🔬🧑‍🔬🧑‍🚀🧙‍♂️🔧 Roll Call
-Name/ pronouns (optional) / job, role / social media (twitter, github, ...) / background or interests (optional) / city
 
 ## 🗓️ Agenda
 |  Time | Topic                                  |
@@ -80,35 +78,6 @@ Ask Paula
 ## 🎓 Certificate of attendance
 If you attend the full workshop you can request a certificate of attendance by emailing to training@esciencecenter.nl.
 Please request your certificate within 8 months after the workshop, as we will delete all personal identifyable information after this period.
-
-🍦 Icebreaker
-
-Mood checker!
-
-| Name     | Your mood in 3 words     |                                          |
-| -------- | ------------------------ | ---------------------------------------- |
-| Giulia   |  Too many things on my head                         |                                          |
-| Lili     | Fun, informative, pumped |                                          |
-| Max      | Interested!              |                                          |
-| Pedro    | Tired not tired           |                                          |
-| Veerle   | Tired but interested     |                                          |                                        |
-| Andres   | Tired but good, sleepy   |                                          |
-| Tamara   | Hoping to learn          |                                          |
-| Tarun    |                          |                                          |
-| Frederik | Energized, ready         |                                          |
-| Sadaf    | Excited,  try to be fast |                                          |
-| Lorenzo | sleepy but excited and ready | 
-| Moji    | tired, excited               |                                          |     |     |
-| Shaina  | Ready to learn               | 
-| Alessio | Let's go :)                  |                   | Lucas | Tired but ready for teaching   | 
-| Sajjad  | Uphappy with house neighbors |                                          |     |     |
-| Ben    | Tired, curious, interested |
-| Wessel | Happy, partly asleep |
-| Laura  | sleepy, frustrated with data fitting, irritable               |
-|  Leila      |  tired but looking forward!                   |
-|    Jing    |       Tired, but learned a lot.              |
-|        |                     |
-
 
 ## 🔧 Exercises
 
