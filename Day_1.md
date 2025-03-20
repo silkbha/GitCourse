@@ -55,54 +55,6 @@ Lucas Esclapez, Olga Lyashevska
 
 Heather Andrews, Carlos Utrilla Guerrero, Leila Inigo de la Cruz, Yasel Quintero, Selin Kubilay
 
-## 👩‍💻👩‍💼👨‍🔬🧑‍🔬🧑‍🚀🧙‍♂️🔧 Roll Call
-Name/ pronouns (optional) / job, role / social media (twitter, github, ...) / background or interests (optional) / city
-
-Veerle Troelstra / PhD candidate Civil Engineering and Geoscience - Pathogen transport modelling during riverbank filtration / sailing, rock climbing, hiking / Delft 
-
-Frederik Jacobs / PhD Candidate Space Engineering / Modeling forces on satellites for climate mission (GRACE/-FO)/ Belgium
-
-
-Lucas Esclapez / Research software engineer, eScience Center / HPC - Research software / Drums, rock climbing
-
-Olga Lyashevska / Research Software Engineer/ NLeSc
-
-Laura Jansen-Storbacka / PhD candidate at TPM /data driven modelling of non-small cell lung cancer/Auckland, New Zealand/
-
-Carlos Utrilla Guerrero / TUD Trainer / AI Agents and RSE / Zaragoza (Spain) / https://carlosug.github.io/
-
-Lili Ma / Software modelling climbing
-
-Moji Shi / PhD candidate Aerospace Engineering / https://smoggy-p.github.io/ / Video Games, Basketball / Shanghai -> Delft
-
-Tarun Hegde / PhD Candidate / CFD / Football, Reading
-
-Max Knoop (Dutch) / PhD Candidate / control of wall-bounded turbulence (experiments) / Cycling, running, reading, photography.
-
-Tamara Mijatovic / PhD candidate Bionanoscience / Background: Nanobiology / Current topics of research: Multivalent binding and phase separation / Playing games, Reading / Work in Delft, live in Amsterdam
-
-Giulia Leto/ PhD candidate in Aerospace Engineering, Air traffic management - working on AI for sectorization planning of the airspace / https://github.com/giulialeto / Delft
-
-Alessio Secchiaroli/ PhD candidate in Aerospace Engineering, Propulsion and Power/ Experimental research on working fluids for ORC system/ From Italy, based in Rotterdam
-
-Sadaf Khalighi/ PhD candidate in Civil Engineering, binder aging and multivariate analysis/
-
-Sajjad Moslehi/PhD candidate in subsurface reservoir engineering at CEG faculty/https://www.linkedin.com/in/sajjad-moslehi/ / Delft
-
-Shaina Blitt / TU Delft PhD Candidate Mechanical Engineering, Process & Energy / Thermochemical Heat Storage / New York, USA
-
-Pedro Quesada / Research software engineer/ M&TT / Querétaro, México / Aerodynamics / Football, music production, movies
-
-Benjamin Silk / PhD Candidate in Astrophysics, Hydrodynamical Simulations of Planet Formation / Los Angeles, USA -> Leiden, NL
-
-Andres Felipe Cortes / PhD Civil Engineering and Geoscience / Real-Time Control of urban drainage systems / Football, biking / Bogota, Colombia
-
-Lorenzo Casagli/ PhD in Process an Energy department/ Background in Mechanical engineering/ Research in microplastics filtration 
-
-Jing Wang / PhD candidate in Numerical Analysis, DIAM, EEMCS - computational finance / https://www.linkedin.com/in/jing-wang-a33a1a283/ / table tennis / from China lived in Delft /
-
-Wessel de Waart / PhD candidate in Aerospace Engineering / Numerical modelling of turbomachinery and gas bearings
-
 
 ## 🗓️ Agenda
 | Topic                             |  Time |
