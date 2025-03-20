@@ -1,4 +1,3 @@
-import pytest
 
 def add(a,b):
     """Correct function. Passes unit test."""
@@ -13,7 +12,7 @@ def fizzbuzz(n):
     """
     if isinstance(n,int) == False:
         raise ValueError("input must be an integer")
-    if n<= 0:
+    if n <= 0:
         raise ValueError("zero or negative numbers are not allowed")
     
     if n % 3 == 0 and n % 5 == 0:
@@ -22,3 +21,5 @@ def fizzbuzz(n):
         return "Fizz"
     elif n % 5 == 0:
         return "Buzz"
+    else:
+        return n
